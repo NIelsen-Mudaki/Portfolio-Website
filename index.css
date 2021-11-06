@@ -12,3 +12,7 @@
     align-items: center;
     justify-content: center;
 }
+.card-info img{
+    height: 300px;
+    width: 630px;
+}
