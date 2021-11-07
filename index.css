@@ -2,10 +2,12 @@
     height: 250px;
     width: 250px;
     border-radius: 15px;
+    margin-top: 20px;
 }
 .profile p{
     font-size: 30px;
     text-align: center;
+    color: wheat;
 }
 .profile{
     display: flex;
@@ -35,4 +37,9 @@ body{
 .card2{
     background-image: url(/img/food2.jpeg);
     color: white;
+}
+.about{
+    background-image: url(/img/bg5.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
