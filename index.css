@@ -25,3 +25,10 @@
 .css{
     color: #2d6ee9;
 }
+body{
+    background-image: url(/img/background1.jpg);
+}
+.card1{
+    background-image: url(/img/camera2.jpeg);
+    color: white;
+}
