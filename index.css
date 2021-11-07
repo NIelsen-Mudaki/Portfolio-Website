@@ -29,6 +29,8 @@
 }
 body{
     background-image: url(/img/background1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .card1{
     background-image: url(/img/camera2.jpeg);
