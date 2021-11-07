@@ -16,3 +16,12 @@
     height: 300px;
     width: 630px;
 }
+.card-info li{
+    list-style: none;
+}
+.html{
+    color: #e45e32;
+}
+.css{
+    color: #2d6ee9;
+}
