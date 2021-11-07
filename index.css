@@ -48,3 +48,7 @@ body{
 .card-info a:hover{
     color: hotpink;
 }
+h2{
+    color: wheat;
+    text-align: center;
+}
