@@ -25,9 +25,9 @@ The website is an overview of my projects. It also gives additional information 
 * Bootstrap - used as a styling framework for the page.
 
 ## License
-MIT License
+##### MIT License
 ​
-Copyright (c) [2021] [Nielsen Mudaki]
+##### Copyright (c) [2021] [Nielsen Mudaki]
 ​
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -48,5 +48,5 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## Author Info
-Slack - Nielsen Mudaki
-E-mail - jumbanielsen@gmail.com
+##### Slack - Nielsen Mudaki
+##### E-mail - jumbanielsen@gmail.com
