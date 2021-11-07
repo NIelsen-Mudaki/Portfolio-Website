@@ -13,6 +13,7 @@
 The website is an overview of my projects. It also gives additional information at a personal level which includes hobbies, interests and educational background.
 
 ## Link to the live site
+* nielsen-mudaki.github.io/portfolio-website/
 
 ## Installation
 
