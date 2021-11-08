@@ -28,7 +28,7 @@
     color: #2d6ee9;
 }
 body{
-    background-image: url(/img/background1.jpg);
+    background-image: url(./img/background1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
